@@ -25,6 +25,7 @@
         "drupal/core-recommended": "^11",
         "drupal/lagoon_logs": "^3",
         "drupal/recommended-project": "^11",
+        "drupal/tour": "^2.0",
         "drush/drush": "^13",
         "zaporylie/composer-drupal-optimizations": "1.2.0"
     },
